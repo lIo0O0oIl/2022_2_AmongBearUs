@@ -206,189 +206,106 @@ AMONGBEARUS\ASSETS
 │  │
 │  ├─3. Map
 │  │      1. Back.png
-│  │      1. Back.png.meta
 │  │      10. Hallway_4.png
-│  │      10. Hallway_4.png.meta
 │  │      2. Cafeteria.png
-│  │      2. Cafeteria.png.meta
 │  │      3. Lab.png
-│  │      3. Lab.png.meta
 │  │      4. Prop_Down.png
-│  │      4. Prop_Down.png.meta
 │  │      5. Prop_Up.png
-│  │      5. Prop_Up.png.meta
 │  │      6. Electric.png
-│  │      6. Electric.png.meta
 │  │      7. Hallway_1.png
-│  │      7. Hallway_1.png.meta
 │  │      8. Hallway_2.png
-│  │      8. Hallway_2.png.meta
 │  │      9. Hallway_3.png
-│  │      9. Hallway_3.png.meta
 │  │
 │  ├─4. Item
 │  │      Mission1.png
-│  │      Mission1.png.meta
 │  │      Mission2.png
-│  │      Mission2.png.meta
 │  │      Mission3.png
-│  │      Mission3.png.meta
 │  │      Mission4.png
-│  │      Mission4.png.meta
 │  │      Mission5.png
-│  │      Mission5.png.meta
 │  │      Mission6.png
-│  │      Mission6.png.meta
 │  │
 │  ├─5. Mission
 │  │  │  Cancle.png
-│  │  │  Cancle.png.meta
 │  │  │  Guage.png
-│  │  │  Guage.png.meta
-│  │  │  Mission1.meta
-│  │  │  Mission2.meta
-│  │  │  Mission3.meta
-│  │  │  Mission4.meta
-│  │  │  Mission5.meta
-│  │  │  Mission6.meta
 │  │  │
 │  │  ├─Mission1
 │  │  │      Mission1_Back.png
-│  │  │      Mission1_Back.png.meta
 │  │  │      Mission1_Btn.png
-│  │  │      Mission1_Btn.png.meta
 │  │  │
 │  │  ├─Mission2
 │  │  │      Mission2_1.png
-│  │  │      Mission2_1.png.meta
 │  │  │      Mission2_2.png
-│  │  │      Mission2_2.png.meta
 │  │  │      Mission2_3.png
-│  │  │      Mission2_3.png.meta
 │  │  │      Mission2_4.png
-│  │  │      Mission2_4.png.meta
 │  │  │      Mission2_5.png
-│  │  │      Mission2_5.png.meta
 │  │  │      Mission2_Back.png
-│  │  │      Mission2_Back.png.meta
 │  │  │      Mission2_Handle.png
-│  │  │      Mission2_Handle.png.meta
 │  │  │
 │  │  ├─Mission3
 │  │  │      Mission3_Back.png
-│  │  │      Mission3_Back.png.meta
 │  │  │
 │  │  ├─Mission4
 │  │  │      1.png
-│  │  │      1.png.meta
-│  │  │      10.png
-│  │  │      10.png.meta
 │  │  │      2.png
-│  │  │      2.png.meta
 │  │  │      3.png
-│  │  │      3.png.meta
 │  │  │      4.png
-│  │  │      4.png.meta
 │  │  │      5.png
-│  │  │      5.png.meta
 │  │  │      6.png
-│  │  │      6.png.meta
 │  │  │      7.png
-│  │  │      7.png.meta
 │  │  │      8.png
-│  │  │      8.png.meta
 │  │  │      9.png
-│  │  │      9.png.meta
+│  │  │      10.png
 │  │  │      Mission4_Back.png
-│  │  │      Mission4_Back.png.meta
 │  │  │
 │  │  ├─Mission5
 │  │  │      Mission5_Back.png
-│  │  │      Mission5_Back.png.meta
 │  │  │      Mission5_Hadle.png
-│  │  │      Mission5_Hadle.png.meta
 │  │  │      Mission5_Rotate.png
-│  │  │      Mission5_Rotate.png.meta
 │  │  │
 │  │  └─Mission6
 │  │          Mission6_Back.png
-│  │          Mission6_Back.png.meta
 │  │
 │  ├─6. KillAnimation
 │  │      1.png
-│  │      1.png.meta
-│  │      10.png
-│  │      10.png.meta
-│  │      11.png
-│  │      11.png.meta
-│  │      12.png
-│  │      12.png.meta
 │  │      2.png
-│  │      2.png.meta
 │  │      3.png
-│  │      3.png.meta
 │  │      4.png
-│  │      4.png.meta
 │  │      5.png
-│  │      5.png.meta
 │  │      6.png
-│  │      6.png.meta
 │  │      7.png
-│  │      7.png.meta
 │  │      8.png
-│  │      8.png.meta
 │  │      9.png
-│  │      9.png.meta
+│  │      10.png
+│  │      11.png
+│  │      12.png
 │  │
 │  └─7. good
 │          celebration.png
-│          celebration.png.meta
 │          Light.mat
-│          Light.mat.meta
 │          Light.psd
-│          Light.psd.meta
 │          missionClear.psd
-│          missionClear.psd.meta
 │
 ├─3. Animation
 │      BackGround.controller
-│      BackGround.controller.meta
 │      Character.controller
-│      Character.controller.meta
 │      Character_Idle.anim
-│      Character_Idle.anim.meta
 │      Character_Walk.anim
-│      Character_Walk.anim.meta
 │      KillAnimation.anim
-│      KillAnimation.anim.meta
 │      Kill_Anim.controller
-│      Kill_Anim.controller.meta
 │      MissionUI.controller
-│      MissionUI.controller.meta
 │      Mission_Down.anim
-│      Mission_Down.anim.meta
 │      Mission_Idle_Down.anim
-│      Mission_Idle_Down.anim.meta
 │      Mission_Idle_Up.anim
-│      Mission_Idle_Up.anim.meta
 │      Mission_Up.anim
-│      Mission_Up.anim.meta
 │      Text.controller
-│      Text.controller.meta
 │      Text_Success.anim
-│      Text_Success.anim.meta
 │      Trash_Shake.anim
-│      Trash_Shake.anim.meta
 │
 ├─4. Material
 │      Blue.mat
-│      Blue.mat.meta
 │      Green.mat
-│      Green.mat.meta
 │      Red.mat
-│      Red.mat.meta
 │      Yellow.mat
-│      Yellow.mat.meta
 │
 └─Resources
     │  Character.prefab
