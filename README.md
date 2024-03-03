@@ -56,49 +56,7 @@
 </a>
 
 ## 구조
-<!--
 ```bash
-2022_1_ONLY_ONE_CHANCE\ASSETS
-├─1_Scenes
-│      GameClaer.unity
-│      GameOver.unity
-│      Intro.unity
-│      Play.unity
-│
-├─2_Scripts
-│  │  ButtonEvent.cs
-│  │  Leave.cs
-│  │  Leave.cs.meta
-│  │
-│  └─GamePlay
-│          AutoDestroyer.cs
-│          Boss.cs
-│          BossBullet.cs
-│          BossHP.cs
-│          Bullet.cs
-│          Bulletile.cs
-│          Enemy.cs
-│          EnemySpawner.cs
-│          Enemytile.cs
-│          Mana.cs
-│          ManaViewer.cs
-│          Movement.cs
-│          Player.cs
-│          PlayerHP.cs
-│          PlayerHPViewer.cs
-│          PlayerScoreViewer.cs
-│          ResultScoreViewer.cs
-│          StageData.asset
-│          StageData.cs
-│
-├─3_Prefabs
-│      BossBullet.prefab
-│      Bullet.prefab
-│      Enemy.prefab
-│
-├─4_Sounds
-         Rinne - Connect.mp3
-
 AMONGBEARUS\ASSETS
 ├─0. Scenes
 │      SampleScene.unity
@@ -318,7 +276,7 @@ AMONGBEARUS\ASSETS
             Trash4.prefab
             Trash5.prefab
 ```
-주석 지우기~~-->
 
 ## 참고
 <img>
+기초반 수업 자료들
