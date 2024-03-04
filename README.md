@@ -21,16 +21,16 @@
 
 |  InGame   |
 | :-------: |
-| <a href="#"> <img alt="image" width="250" src=""> <img alt="image" width="250" src=""> </a> |
+| <a href="#"> <img alt="image" width="350" src="https://github.com/lIo0O0oIl/2022_2_AmongBearUs/assets/98943168/189f4f45-17a1-4418-974e-50741021de74"> <img alt="image" width="350" src="https://github.com/lIo0O0oIl/2022_2_AmongBearUs/assets/98943168/22be351e-4aea-42b1-ae68-f153c7e4ab3a"> </a> |
 
 |   Intro   |   Outro   |
 |:---------:|:---------:|
-| <a href="#"> <img alt="image" width="250" src=""> </a> | <a href="#"> <img alt="image" width="250" src=""> </a> |
+| <a href="#"> <img alt="image" width="350" src="https://github.com/lIo0O0oIl/2022_2_AmongBearUs/assets/98943168/1c68582b-2760-456f-a4f8-ecf0de26a38b"> </a> | <a href="#"> <img alt="image" width="350" src="https://github.com/lIo0O0oIl/2022_2_AmongBearUs/assets/98943168/7063e980-8724-463f-922b-86094ddf5a1c"> </a> |
 
 </div>
 
-> **Only One Chance는 1학년 1학기 동안 배운 내용을 응용해서 약 1개월동안 만든 간단한 PC 슈팅게임입니다.**  
-> **플레이어 쪽으로 날라오는 적, 한 방향으로 내려오는 적이 랜덤으로 생성되며 3가지의 패턴을 가진 보스가 존재합니다.**
+> **AmongBearUs는 고등학교 1학년 여름방학 유니티 기초반 수업에서 약 2주 동안 만든 캐주얼 퍼즐게임입니다.**  
+> **어몽어스의 모작으로 7가지 미니게임, 사람을 죽이는 애니메이션 등이 존재합니다.**
 
 ## 빌드본 다운
 > **구글 드라이브** : [https://drive.google.com/file/d/1yi15vQp7MBOX9OUXNNc79FEmomPVpFd9/view?usp=sharing] <br>
@@ -278,5 +278,6 @@ AMONGBEARUS\ASSETS
 ```
 
 ## 참고
-<img>
+<img alt="image" src="https://github.com/lIo0O0oIl/2022_2_AmongBearUs/assets/98943168/c69180f8-593c-492a-9c0e-4474ee2bf43a">
+
 기초반 수업 자료들
