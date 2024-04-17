@@ -1,18 +1,32 @@
-# AmongBearUs
-
 <div align="center">
-<a href="#">
-  <img alt="image" src="https://github.com/lIo0O0oIl/2022_2_AmongBearUs/assets/98943168/d1d2491e-4adb-454b-a9b2-672836bbf76b">
-</a>
-<!--타이틀 잘라서 넣어주기-->
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FlIo0O0oIl%2F2022_2_AmongBearUs&count_bg=%236EC89F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+  <h1>AmongBearUs 🎮</h1>
+  <a href="#">
+    <img alt="image" src="https://github.com/lIo0O0oIl/2022_2_AmongBearUs/assets/98943168/d1d2491e-4adb-454b-a9b2-672836bbf76b">
+  </a>
+  
+  <div>
+    <a href="#">
+      <img alt="hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FlIo0O0oIl%2F2022_2_AmongBearUs&count_bg=%236EC89F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
+    </a>
+  </div>
 </div> <!--가운데 정렬은 여기까지-->
 
+
+## 목차
+- [프로젝트 정보](#프로젝트-정보)
+- [게임 설명](#게임-설명)
+- [게임 다운](#게임-다운)
+- [개발팀 소개](#개발팀-소개)
+- [파일 구조](#파일-구조)
+- [참고](#참고)
+<br>
+
+
 ## 프로젝트 정보
-> **1학년 여름방학 유니티 기초반 수업**  
-> **2022.7.21 ~ 2022.7.29**
+- 제작 : 1학년 여름방학 유니티 기초반 수업  
+- 기간 : 2022.7.21 ~ 2022.7.29
+<br>
+
 
 ## 게임 설명
 <div align="center">
@@ -25,13 +39,36 @@
 |:---------:|:---------:|
 | <a href="#"> <img alt="image" width="350" src="https://github.com/lIo0O0oIl/2022_2_AmongBearUs/assets/98943168/1c68582b-2760-456f-a4f8-ecf0de26a38b"> </a> | <a href="#"> <img alt="image" width="350" src="https://github.com/lIo0O0oIl/2022_2_AmongBearUs/assets/98943168/7063e980-8724-463f-922b-86094ddf5a1c"> </a> |
 
+| video |
+| :---: |
+| <a href="https://youtu.be/OwNMIoag-Zk"> <img alt="video" src="https://img.youtube.com/vi/OwNMIoag-Zk/0.jpg"> </a> |
+
+https://youtu.be/OwNMIoag-Zk
+
+|이동방향|위|왼쪽|아래|오른쪽|
+|:---:|:---:|:---:|:---:|:---:|
+|키보드| W | A | S | D |
+|방향키|⬆️|⬅️|⬇️|➡️|
+
+|마우스|
+|:---:|
+|좌클릭|
+|움직임 및 상호작용|
+
+<br>
 </div>
 
-> **AmongBearUs는 고등학교 1학년 여름방학 유니티 기초반 수업에서 약 2주 동안 만든 PC 캐주얼 퍼즐게임입니다.**  
-> **어몽어스의 모작으로 7가지 미니게임, 사람을 죽이는 애니메이션 등이 존재합니다.**
+AmongBearUs는 고등학교 1학년 여름방학 유니티 기초반 수업에서 약 2주 동안 만든 Android 캐주얼 퍼즐게임입니다.  
+어몽어스의 모작으로 7가지 미니게임, 사람을 죽이는 애니메이션 등이 존재합니다.
 
-## 빌드본 다운
-> **구글 드라이브** : [https://drive.google.com/file/d/1yi15vQp7MBOX9OUXNNc79FEmomPVpFd9/view?usp=sharing] <br>
+<br>
+
+
+## 게임 다운
+구글 드라이브 : [https://drive.google.com/file/d/1yi15vQp7MBOX9OUXNNc79FEmomPVpFd9/view?usp=sharing]
+
+<br>
+
 
 ## 개발팀 소개
 <div align="center">
@@ -42,18 +79,13 @@
 | 1인 개발 |
 
 </div>
+<br>
 
-## 사용한 것들
-<div align="left"> <a href="#">
-<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
-<img src="https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
-</a> </div>
-<a href="#">
-  <img src="https://img.shields.io/badge/Unity_Version-2021.3.8f1-blue?style=flat-square">
-</a>
 
-## 구조
+## 파일 구조
+<details>
+<summary>눌러서 구조 보기</summary>
+
 ```bash
 AMONGBEARUS\ASSETS
 ├─0. Scenes
@@ -274,8 +306,21 @@ AMONGBEARUS\ASSETS
             Trash4.prefab
             Trash5.prefab
 ```
+</details>
+<br>
 
 ## 참고
-<img alt="image" src="https://github.com/lIo0O0oIl/2022_2_AmongBearUs/assets/98943168/c69180f8-593c-492a-9c0e-4474ee2bf43a">
 
-기초반 수업 자료들
+#### 사용한 도구
+<div align="left"> <a href="#">
+<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"><img src="https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+</a> </div>
+<a href="#">
+  <img src="https://img.shields.io/badge/Unity_Version-2021.3.8f1-blue?style=flat-square">
+</a>
+<br>
+
+#### 기초반 수업 자료
+<a href="#">
+  <img alt="image" src="https://github.com/lIo0O0oIl/2022_2_AmongBearUs/assets/98943168/c69180f8-593c-492a-9c0e-4474ee2bf43a">
+</a>
