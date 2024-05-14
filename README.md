@@ -43,8 +43,6 @@
 | :---: |
 | <a href="https://youtu.be/OwNMIoag-Zk"> <img alt="video" src="https://img.youtube.com/vi/OwNMIoag-Zk/0.jpg"> </a> |
 
-https://youtu.be/OwNMIoag-Zk
-
 |이동방향|위|왼쪽|아래|오른쪽|
 |:---:|:---:|:---:|:---:|:---:|
 |키보드| W | A | S | D |
