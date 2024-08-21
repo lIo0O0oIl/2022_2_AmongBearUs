@@ -1,84 +1,12 @@
-<div align="center">
-  <h1>AmongBearUs 🎮</h1>
-  <a href="#">
-    <img alt="image" src="https://github.com/lIo0O0oIl/2022_2_AmongBearUs/assets/98943168/d1d2491e-4adb-454b-a9b2-672836bbf76b">
-  </a>
-  
-  <div>
-    <a href="#">
-      <img alt="hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FlIo0O0oIl%2F2022_2_AmongBearUs&count_bg=%236EC89F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
-    </a>
-  </div>
-</div> <!--가운데 정렬은 여기까지-->
+## AmongBearUs 🎮
 
-
-## 목차
-- [프로젝트 정보](#프로젝트-정보)
-- [게임 설명](#게임-설명)
-- [게임 다운](#게임-다운)
-- [개발팀 소개](#개발팀-소개)
-- [파일 구조](#파일-구조)
-- [참고](#참고)
-<br>
-
-
-## 프로젝트 정보
-- 제작 : 1학년 여름방학 유니티 기초반 수업  
-- 기간 : 2022.7.21 ~ 2022.7.29
-<br>
-
-
-## 게임 설명
-<div align="center">
-
-|  InGame   |
-| :-------: |
-| <a href="#"> <img alt="image" width="350" src="https://github.com/lIo0O0oIl/2022_2_AmongBearUs/assets/98943168/189f4f45-17a1-4418-974e-50741021de74"> <img alt="image" width="350" src="https://github.com/lIo0O0oIl/2022_2_AmongBearUs/assets/98943168/22be351e-4aea-42b1-ae68-f153c7e4ab3a"> </a> |
-
-|   Intro   |   Outro   |
-|:---------:|:---------:|
-| <a href="#"> <img alt="image" width="350" src="https://github.com/lIo0O0oIl/2022_2_AmongBearUs/assets/98943168/1c68582b-2760-456f-a4f8-ecf0de26a38b"> </a> | <a href="#"> <img alt="image" width="350" src="https://github.com/lIo0O0oIl/2022_2_AmongBearUs/assets/98943168/7063e980-8724-463f-922b-86094ddf5a1c"> </a> |
-
-| video |
-| :---: |
-| <a href="https://youtu.be/OwNMIoag-Zk"> <img alt="video" src="https://img.youtube.com/vi/OwNMIoag-Zk/0.jpg"> </a> |
-
-|이동방향|위|왼쪽|아래|오른쪽|
-|:---:|:---:|:---:|:---:|:---:|
-|키보드| W | A | S | D |
-|방향키|⬆️|⬅️|⬇️|➡️|
-
-|마우스|
-|:---:|
-|좌클릭|
-|움직임 및 상호작용|
-
-<br>
-</div>
-
-AmongBearUs는 고등학교 1학년 여름방학 유니티 기초반 수업에서 약 2주 동안 만든 Android 캐주얼 퍼즐게임입니다.  
-어몽어스의 모작으로 7가지 미니게임, 사람을 죽이는 애니메이션 등이 존재합니다.
+게임 메뉴얼 : [https://url.kr/pyq6nf]
 
 <br>
 
+<!--  ## 코드 다이어그램 
 
-## 게임 다운
-구글 드라이브 : [https://drive.google.com/file/d/1yi15vQp7MBOX9OUXNNc79FEmomPVpFd9/view?usp=sharing]
-
-<br>
-
-
-## 개발팀 소개
-<div align="center">
-
-| <a href="https://github.com/lIo0O0oIl"> lIo0O0oIl </a> |
-| :-----------: |
-| <a href="https://github.com/lIo0O0oIl"> <img alt="image" width="200" src="https://github.com/lIo0O0oIl.png"> </a> |
-| 1인 개발 |
-
-</div>
-<br>
-
+<br> -->
 
 ## 파일 구조
 <details>
